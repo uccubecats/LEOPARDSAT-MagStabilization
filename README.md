@@ -1,1 +1,1 @@
-# LEOPARDSAT-MagStabilization
+# LEOPARDSAT-PMACS
