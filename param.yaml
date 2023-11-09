@@ -1,0 +1,11 @@
+# Magnet properties
+magnet:
+  max_mass:       # Kg
+  max_strength:   # Tesla
+
+# Hysteresis material properties
+hysteresis:
+  max_mass:       # Kg
+  max_length:     # m
+  max_width:      # m
+  max_thick:      # m
