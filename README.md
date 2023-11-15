@@ -22,8 +22,8 @@ py -m venv .venv; .venv/scripts/activate; pip install -r requirements.txt
 
 ## Starting the Simulation
 Running the simulation requires two steps:
-1. Enter your parameters into `src/parameters.yaml`.
-1. Begin the simulation by runing `src/main.py`.
+1. Enter your parameters into `parameters.yaml`.
+1. Begin the simulation by runing `main.py`.
 
 ## Credits
 - Justin Panchula
